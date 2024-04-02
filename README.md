@@ -7,8 +7,8 @@
 > JSON Schema validation
 > Newman HTML Report
 
-NEWMAN REPORT
-
+**NEWMAN REPORT
+**
 
 
 ![image](https://github.com/MuthuparvathiMuthukrishnan/API_Postman_ProjectCollections/assets/159878535/4313c50e-2a1a-43de-8a14-ebb72fbd9f11)
